@@ -1,0 +1,1025 @@
+﻿Log file open, 03/28/25 03:05:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Prismatica
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.164391
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 13th Gen Intel(R) Core(TM) i5-13600K, GPU: NVIDIA GeForce RTX 4070 Ti SUPER
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Engine.ini]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Engine.ini]
+[2025.03.28-02.05.48:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Engine.ini]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Engine.ini]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2025.03.28-02.05.48:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Engine.ini]
+[2025.03.28-02.05.48:087][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Engine.ini]
+[2025.03.28-02.05.48:095][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.03.28-02.05.48:095][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.03.28-02.05.48:096][  0]LogInit: Selected Device Profile: [Windows]
+[2025.03.28-02.05.48:096][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2025.03.28-02.05.48:096][  0]LogHAL: Display: Platform has ~ 32 GB [34112942080 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.03.28-02.05.48:096][  0]LogInit: Going up to parent DeviceProfile []
+[2025.03.28-02.05.48:096][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.03.28-02.05.48:096][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Scalability.ini]
+[2025.03.28-02.05.48:096][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.03.28-02.05.48:097][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.03.28-02.05.48:097][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.03.28-02.05.48:097][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.03.28-02.05.48:097][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2025.03.28-02.05.48:097][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2025.03.28-02.05.48:097][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2025.03.28-02.05.48:097][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Engine.ini]
+[2025.03.28-02.05.48:097][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Config/Windows/Editor.ini]
+[2025.03.28-02.05.48:097][  0]LogInit: Computer: DESKTOP-7TFOPE8
+[2025.03.28-02.05.48:097][  0]LogInit: User: Igor
+[2025.03.28-02.05.48:097][  0]LogInit: CPU Page size=4096, Cores=14
+[2025.03.28-02.05.48:097][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.03.28-02.05.48:097][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2025.03.28-02.05.48:097][  0]LogMemory: Platform Memory Stats for Windows
+[2025.03.28-02.05.48:097][  0]LogMemory: Process Physical Memory: 150.89 MB used, 150.90 MB peak
+[2025.03.28-02.05.48:097][  0]LogMemory: Process Virtual Memory: 134.92 MB used, 134.92 MB peak
+[2025.03.28-02.05.48:097][  0]LogMemory: Physical Memory: 13535.45 MB used,  18997.19 MB free, 32532.64 MB total
+[2025.03.28-02.05.48:097][  0]LogMemory: Virtual Memory: 134174648.00 MB used,  43078.76 MB free, 134217728.00 MB total
+[2025.03.28-02.05.48:101][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.03.28-02.05.48:142][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2025.03.28-02.05.48:143][  0]LogInit: Using OS detected language (pl-PL).
+[2025.03.28-02.05.48:143][  0]LogInit: Using OS detected locale (pl-PL).
+[2025.03.28-02.05.48:144][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2025.03.28-02.05.48:144][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2025.03.28-02.05.48:144][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2025.03.28-02.05.48:145][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2025.03.28-02.05.48:145][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2025.03.28-02.05.48:145][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2025.03.28-02.05.48:145][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2025.03.28-02.05.48:145][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2025.03.28-02.05.48:145][  0]LogInit: Setting process to per monitor DPI aware
+[2025.03.28-02.05.48:154][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2025.03.28-02.05.48:169][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.03.28-02.05.48:169][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.03.28-02.05.48:222][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2025.03.28-02.05.48:264][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2025.03.28-02.05.48:264][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2025.03.28-02.05.48:264][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2025.03.28-02.05.48:264][  0]LogD3D11RHI: D3D11 adapters:
+[2025.03.28-02.05.48:377][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 4070 Ti SUPER' (Feature Level 11_0)
+[2025.03.28-02.05.48:377][  0]LogD3D11RHI:       16063/0/16266 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2025.03.28-02.05.48:425][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 770' (Feature Level 11_0)
+[2025.03.28-02.05.48:425][  0]LogD3D11RHI:       128/0/16266 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2025.03.28-02.05.48:426][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2025.03.28-02.05.48:426][  0]LogD3D11RHI:       0/0/16266 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2025.03.28-02.05.48:426][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2025.03.28-02.05.48:426][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4070 Ti SUPER
+[2025.03.28-02.05.48:426][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.03.28-02.05.48:426][  0]LogD3D11RHI:     DeviceId    : 2705
+[2025.03.28-02.05.48:426][  0]LogD3D11RHI:     SubSysId    : 141f196e
+[2025.03.28-02.05.48:426][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.03.28-02.05.48:426][  0]LogD3D11RHI:     DedicatedVideoMemory : 16843276288 bytes
+[2025.03.28-02.05.48:426][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.03.28-02.05.48:426][  0]LogD3D11RHI:     SharedSystemMemory : 17056471040 bytes
+[2025.03.28-02.05.48:426][  0]LogD3D11RHI:     AdapterLuid : 0 53386
+[2025.03.28-02.05.48:431][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2025.03.28-02.05.48:431][  0]LogD3D11RHI:     GPU DeviceId: 0x2705 (for the marketing name, search the web for "GPU Device Id")
+[2025.03.28-02.05.48:431][  0]LogWindows: EnumDisplayDevices:
+[2025.03.28-02.05.48:432][  0]LogWindows:    0. 'NVIDIA GeForce RTX 4070 Ti SUPER' (P:1 D:1)
+[2025.03.28-02.05.48:432][  0]LogWindows:    1. 'NVIDIA GeForce RTX 4070 Ti SUPER' (P:0 D:1)
+[2025.03.28-02.05.48:432][  0]LogWindows:    2. 'NVIDIA GeForce RTX 4070 Ti SUPER' (P:0 D:0)
+[2025.03.28-02.05.48:432][  0]LogWindows:    3. 'NVIDIA GeForce RTX 4070 Ti SUPER' (P:0 D:0)
+[2025.03.28-02.05.48:432][  0]LogWindows:    4. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2025.03.28-02.05.48:433][  0]LogWindows:    5. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2025.03.28-02.05.48:433][  0]LogWindows:    6. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2025.03.28-02.05.48:433][  0]LogWindows:    7. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2025.03.28-02.05.48:434][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2025.03.28-02.05.48:434][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 4070 Ti SUPER
+[2025.03.28-02.05.48:434][  0]LogD3D11RHI:   Driver Version: 560.94 (internal:32.0.15.6094, unified:560.94)
+[2025.03.28-02.05.48:434][  0]LogD3D11RHI:      Driver Date: 8-14-2024
+[2025.03.28-02.05.48:434][  0]LogRHI: Texture pool is 11244 MB (70% of 16063 MB)
+[2025.03.28-02.05.48:434][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2025.03.28-02.05.48:434][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4070 Ti SUPER
+[2025.03.28-02.05.48:434][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.03.28-02.05.48:434][  0]LogD3D11RHI:     DeviceId    : 2705
+[2025.03.28-02.05.48:434][  0]LogD3D11RHI:     SubSysId    : 141f196e
+[2025.03.28-02.05.48:434][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.03.28-02.05.48:434][  0]LogD3D11RHI:     DedicatedVideoMemory : 16843276288 bytes
+[2025.03.28-02.05.48:434][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.03.28-02.05.48:434][  0]LogD3D11RHI:     SharedSystemMemory : 17056471040 bytes
+[2025.03.28-02.05.48:434][  0]LogD3D11RHI:     AdapterLuid : 0 53386
+[2025.03.28-02.05.48:503][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2025.03.28-02.05.48:504][  0]LogD3D11RHI: Async texture creation enabled
+[2025.03.28-02.05.48:504][  0]LogD3D11RHI: Array index from any shader is supported
+[2025.03.28-02.05.48:515][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2025.03.28-02.05.48:536][  0]LogRHI: GeForceNow SDK initialized: 1
+[2025.03.28-02.05.48:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2025.03.28-02.05.48:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.03.28-02.05.48:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.03.28-02.05.48:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.03.28-02.05.48:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.03.28-02.05.48:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.03.28-02.05.48:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.03.28-02.05.48:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.03.28-02.05.48:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.03.28-02.05.48:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.03.28-02.05.48:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.03.28-02.05.48:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.03.28-02.05.48:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.03.28-02.05.48:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.03.28-02.05.48:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2025.03.28-02.05.48:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.03.28-02.05.48:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.03.28-02.05.48:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2025.03.28-02.05.48:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2025.03.28-02.05.48:767][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2025.03.28-02.05.48:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2025.03.28-02.05.48:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2025.03.28-02.05.48:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2025.03.28-02.05.48:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2025.03.28-02.05.48:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2025.03.28-02.05.48:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2025.03.28-02.05.48:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.03.28-02.05.48:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.03.28-02.05.48:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2025.03.28-02.05.48:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.03.28-02.05.48:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.03.28-02.05.48:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.03.28-02.05.48:820][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2025.03.28-02.05.48:828][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.03.28-02.05.48:859][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2025.03.28-02.05.48:891][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2025.03.28-02.05.48:891][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Intermediate/Shaders/WorkingDirectory/25164/).
+[2025.03.28-02.05.48:891][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Igor/AppData/Local/Temp/UnrealShaderWorkingDir/46D759E74723DB64EE90CDAC886E9447/'.
+[2025.03.28-02.05.48:891][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.03.28-02.05.48:891][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2025.03.28-02.05.48:891][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2025.03.28-02.05.49:333][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2025.03.28-02.05.49:373][  0]LogDerivedDataCache: Loaded boot cache 0.04s 94MB C:/Users/Igor/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2025.03.28-02.05.49:373][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Igor/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2025.03.28-02.05.49:373][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.03.28-02.05.49:373][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2025.03.28-02.05.49:373][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.03.28-02.05.49:373][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2025.03.28-02.05.49:384][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2025.03.28-02.05.49:384][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.03.28-02.05.49:384][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2025.03.28-02.05.49:387][  0]LogDerivedDataCache: Speed tests for C:/Users/Igor/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2025.03.28-02.05.49:387][  0]LogDerivedDataCache: Display: Performance to C:/Users/Igor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=2763.64MBs, RandomWriteSpeed=381.99MBs. Assigned SpeedClass 'Local'
+[2025.03.28-02.05.49:387][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Igor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.03.28-02.05.49:387][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.03.28-02.05.49:387][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2025.03.28-02.05.49:412][  0]LogSlate: Using FreeType 2.10.0
+[2025.03.28-02.05.49:412][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.03.28-02.05.49:426][  0]LogAssetRegistry: FAssetRegistry took 0.0016 seconds to start up
+[2025.03.28-02.05.49:543][  0]LogInit: Selected Device Profile: [Windows]
+[2025.03.28-02.05.49:543][  0]LogInit: Active device profile: [0000022617EF0700][00000226135B4A80 49] Windows
+[2025.03.28-02.05.49:543][  0]LogInit: Profiles: [0000022617EF0700][00000226135B4A80 49] Windows, [0000022617EAB700][00000226135B8C00 49] WindowsNoEditor, [0000022617EF3300][00000226135BCD80 49] WindowsServer, [0000022617EA8F00][00000226135C0F00 49] WindowsClient, [0000022617EF3500][00000226135C5080 49] IOS, [0000022617E93F00][00000226091BF200 49] iPadAir, [0000022617EABB00][00000226091C3380 49] iPadAir2, [0000022617E50500][00000226091CB640 49] IPadPro, [0000022617E50600][00000226091C7680 49] iPadAir3, [0000022617E90100][00000226091CF800 49] iPadAir4, [0000022617E52C00][00000226091D3980 49] iPadMini2, [0000022617E92500][00000226091D7B00 49] iPadMini3, [0000022617E53400][00000226091DA100 49] iPadMini4, [0000022617E90F00][00000226091DE280 49] iPadMini5, [0000022617E27E00][00000226091E6540 49] iPhone6, [0000022617E27F00][00000226091E2580 49] iPodTouch6, [0000022617EF3900][000002260F2FA800 49] iPhone7, [0000022617EF2100][00000226091EA840 49] iPodTouch7, [0000022617E24400][00000226091EE980 49] iPhone5S, [0000022617E53D00][00000226091F2AC0 49] iPhone6Plus, [0000022617EF3400][0000022613472C40 49] iPhone6S, [0000022617E52000][0000022613476DC0 49] iPhone6SPlus, [0000022617EF0900][000002261347AF40 49] iPhone7Plus, [0000022617E50E00][000002261347F0C0 49] iPhoneSE, [0000022617EF0200][0000022613483240 49] iPhone8, [0000022617E52400][00000226134873C0 49] iPhone8Plus, [0000022617EF1E00][000002261348B540 49] iPhoneX, [0000022617E53E00][000002261348F6C0 49] iPhoneXS, [0000022617EF1600][0000022613493840 49] iPhoneXSMax, [0000022617E52500][00000226134979C0 49] iPhoneXR, [0000022617EF2A00][000002261349BB40 49] iPhone11, [0000022617E53A00][000002261349E140 49] iPhone11Pro, [0000022617EF0F00][00000226134A22C0 49] iPhone11ProMax, [0000022617E52300][00000226134A6440 49] iPhoneSE2, [0000022617EF2700][00000226134AA5C0 49] iPhone12Mini, [0000022617E50700][00000226134AE740 49] iPhone12, [0000022617EF3100][00000226134B28C0 49] iPhone12Pro, [0000022617E53500][000002261346EA00 49] iPhone12ProMax, [0000022617EF0800][00000226134B6B40 49] iPadPro105, [0000022617E51C00][00000226134BAC80 49] iPadPro129, [0000022617EF0300][00000226134BEDC0 49] iPadPro97, [0000022617E51D00][00000226134C6F40 49] iPadPro2_129, [0000022617EF0C00][00000226134CB0C0 49] iPad5, [0000022617E53000][00000226134CF240 49] iPad6, [0000022617EF2C00][00000226134D33C0 49] iPad7, [0000022617E52E00][00000226134D7540 49] iPad8, [0000022617EF1800][00000226134DB6C0 49] iPadPro11, [0000022617E51B00][00000226134DF840 49] iPadPro2_11, [0000022617EF1500][00000226134E39C0 49] iPadPro3_129, [0000022617E52700][00000226134E7B40 49] iPadPro4_129, [0000022617EF0100][00000226134EA140 49] AppleTV, [0000022617E52B00][00000226134EE2C0 49] AppleTV4K, [0000022617EF1B00][00000226134F2440 49] TVOS, [0000022617E50900][00000226134F65C0 49] Mac, [0000022617EF1700][00000226134FA740 49] MacClient, [0000022617E52F00][00000226134FE8C0 49] MacNoEditor, [0000022617EF0D00][0000022613502A40 49] MacServer, [0000022617E50300][00000226134C2B80 49] Linux, [0000022617EF2E00][0000022613506CC0 49] LinuxAArch64, [0000022617E51500][000002261350AE00 49] LinuxNoEditor, [0000022617EF2400][000002261350EF40 49] LinuxAArch64NoEditor, [0000022617E50200][00000226135170C0 49] LinuxClient, [0000022617EF2D00][000002261351B240 49] LinuxAArch64Client, [0000022617E50C00][0000022612ECF3C0 49] LinuxServer, [0000022617EF0400][0000022612ED3540 49] LinuxAArch64Server, [0000022617E51000][0000022612ED76C0 49] Android, [0000022617E93900][0000022612EDB840 49] Android_Low, [0000022617E25B00][0000022612EDF9C0 49] Android_Mid, [0000022617E93000][0000022612EE3B40 49] Android_High, [0000022617E26300][0000022612EE6140 49] Android_Default, [0000022617E92000][0000022612EEA2C0 49] Android_Adreno4xx, [0000022617E24100][0000022612EEE440 49] Android_Adreno5xx_Low, [0000022617E90B00][0000022612EF25C0 49] Android_Adreno5xx, [0000022617E25800][0000022612EF6740 49] Android_Adreno6xx, [0000022617E91100][0000022612EFA8C0 49] Android_Adreno6xx_Vulkan, [0000022617E24800][0000022612EFEA40 49] Android_Mali_T6xx, [0000022617E93600][0000022612F1CBC0 49] Android_Mali_T7xx, [0000022617E24D00][0000022612F20D40 49] Android_Mali_T8xx, [0000022617E93C00][0000022613512E80 49] Android_Mali_G71, [0000022617E25500][0000022612F24FC0 49] Android_Mali_G72, [0000022617E93E00][0000022612F29100 49] Android_Mali_G72_Vulkan, [0000022617E27D00][0000022612F31280 49] Android_Mali_G76, [0000022617E93A00][0000022612F35400 49] Android_Mali_G76_Vulkan, [0000022617E27600][0000022612F39580 49] Android_Mali_G77, [0000022617E92200][0000022612F3D700 49] Android_Mali_G77_Vulkan, [0000022617E25200][0000022612F41880 49] Android_Mali_G78, [0000022617E90A00][0000022612F45A00 49] Android_Mali_G78_Vulkan, [0000022617E27000][0000022612F49B80 49] Android_Mali_G710, [0000022617E91400][0000022612F4C180 49] Android_Mali_G710_Vulkan, [0000022617E24700][0000022612F50300 49] Android_Vulkan_SM5, [0000022617E91800][0000022612F54480 49] Android_PowerVR_G6xxx, [0000022617E24E00][0000022612F58600 49] Android_PowerVR_GT7xxx, [0000022617E90200][0000022612F5C780 49] Android_PowerVR_GE8xxx, [0000022617E24600][0000022612F60900 49] Android_PowerVR_GM9xxx, [0000022617E92600][0000022612F64A80 49] Android_PowerVR_GM9xxx_Vulkan, [0000022617E50F00][0000022612F68C00 49] Android_TegraK1, [0000022617E92A00][0000022612F6CD80 49] Android_Unknown_Vulkan, [0000022617E50D00][0000022612F70F00 49] Lumin, [0000022617E91200][0000022612F2D040 49] Lumin_Desktop, [0000022617E50B00][0000022612F75180 49] HoloLens, 
+[2025.03.28-02.05.49:623][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.03.28-02.05.49:623][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.03.28-02.05.49:623][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.03.28-02.05.49:623][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.03.28-02.05.49:623][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.03.28-02.05.49:635][  0]LogNetVersion: Prismatica 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3095953148)
+[2025.03.28-02.05.49:833][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2025.03.28-02.05.49:866][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2025.03.28-02.05.49:870][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2025.03.28-02.05.49:870][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2025.03.28-02.05.49:870][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.03.28-02.05.50:074][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F9DF4DEF429C0A8D16DC6CB4CF18EA78 | Instance: 5B9FEA28402025A55D4312BD0066A6EA (DESKTOP-7TFOPE8-25164).
+[2025.03.28-02.05.50:174][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.03.28-02.05.50:179][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.03.28-02.05.50:204][  0]LogPython: Using Python 3.7.7
+[2025.03.28-02.05.50:709][  0]SourceControl: Source control is disabled
+[2025.03.28-02.05.51:273][  0]LogUProjectInfo: Found projects:
+[2025.03.28-02.05.51:279][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.03.28-02.05.51:279][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.03.28-02.05.51:279][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.03.28-02.05.51:311][  0]LogOpenImageDenoise: OIDN starting up
+[2025.03.28-02.05.51:346][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.03.28-02.05.51:356][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.03.28-02.05.51:356][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.03.28-02.05.51:446][  0]LogCollectionManager: Loaded 0 collections in 0.000988 seconds
+[2025.03.28-02.05.51:466][  0]LogFileCache: Scanning file cache for directory 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/Collections/' took 0.00s
+[2025.03.28-02.05.51:466][  0]LogFileCache: Scanning file cache for directory 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/Developers/Igor/Collections/' took 0.00s
+[2025.03.28-02.05.51:466][  0]LogFileCache: Scanning file cache for directory 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/Collections/' took 0.00s
+[2025.03.28-02.05.51:466][  0]LogOcInput: OculusInput pre-init called
+[2025.03.28-02.05.51:608][  0]LogEngine: Initializing Engine...
+[2025.03.28-02.05.51:658][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2025.03.28-02.05.51:678][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2025.03.28-02.05.51:709][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2025.03.28-02.05.51:709][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2025.03.28-02.05.51:709][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.03.28-02.05.51:788][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.03.28-02.05.51:793][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.03.28-02.05.51:794][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.03.28-02.05.51:797][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.03.28-02.05.51:797][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.03.28-02.05.51:798][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.03.28-02.05.51:798][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.03.28-02.05.51:798][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.28-02.05.51:798][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.28-02.05.51:798][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.28-02.05.51:798][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.28-02.05.51:798][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.28-02.05.51:798][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.28-02.05.51:798][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.28-02.05.51:798][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.28-02.05.51:798][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.28-02.05.51:798][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.28-02.05.51:798][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.28-02.05.51:798][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2025.03.28-02.05.51:807][  0]LogAudioMixer: Display: 0: FrontLeft
+[2025.03.28-02.05.51:807][  0]LogAudioMixer: Display: 1: FrontRight
+[2025.03.28-02.05.52:005][  0]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek USB Audio)
+[2025.03.28-02.05.52:009][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.28-02.05.52:010][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.28-02.05.52:010][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.28-02.05.52:011][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.03.28-02.05.52:011][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.03.28-02.05.52:011][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.03.28-02.05.52:012][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.03.28-02.05.52:012][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.03.28-02.05.52:012][  0]LogInit: FAudioDevice initialized.
+[2025.03.28-02.05.52:012][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.03.28-02.05.52:012][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.03.28-02.05.52:047][  0]LogDerivedDataCache: Saved boot cache 0.04s 94MB C:/Users/Igor/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2025.03.28-02.05.52:049][  0]LogInit: Texture streaming: Enabled
+[2025.03.28-02.05.52:060][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2025.03.28-02.05.52:064][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.03.28-02.05.52:064][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2025.03.28-02.05.52:065][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2025.03.28-02.05.52:082][  0]LogInit: Transaction tracking system initialized
+[2025.03.28-02.05.52:101][  0]BlueprintLog: New page: Editor Load
+[2025.03.28-02.05.52:151][  0]LocalizationService: Localization service is disabled
+[2025.03.28-02.05.52:170][  0]TimingProfiler: Initialize
+[2025.03.28-02.05.52:170][  0]TimingProfiler: OnSessionChanged
+[2025.03.28-02.05.52:170][  0]LoadingProfiler: Initialize
+[2025.03.28-02.05.52:170][  0]LoadingProfiler: OnSessionChanged
+[2025.03.28-02.05.52:170][  0]NetworkingProfiler: Initialize
+[2025.03.28-02.05.52:170][  0]NetworkingProfiler: OnSessionChanged
+[2025.03.28-02.05.52:170][  0]MemoryProfiler: Initialize
+[2025.03.28-02.05.52:170][  0]MemoryProfiler: OnSessionChanged
+[2025.03.28-02.05.52:215][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.03.28-02.05.52:215][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.03.28-02.05.52:215][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.03.28-02.05.52:261][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2025.03.28-02.05.52:261][  0]LogCook: Display: Mobile HDR setting 1
+[2025.03.28-02.05.52:409][  0]LogFileCache: Scanning file cache for directory 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/' took 0.00s
+[2025.03.28-02.05.52:509][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.03.28-02.05.52:511][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.112
+[2025.03.28-02.05.52:511][  0]Cmd: MAP LOAD FILE="G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.03.28-02.05.52:511][  0]LightingResults: New page: Lighting Build
+[2025.03.28-02.05.52:512][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-02.05.52:512][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-02.05.52:512][  0]MapCheck: New page: Map Check
+[2025.03.28-02.05.52:512][  0]LightingResults: New page: Lighting Build
+[2025.03.28-02.05.52:515][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.28-02.05.52:516][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.28-02.05.52:646][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2025.03.28-02.05.52:647][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2025.03.28-02.05.52:656][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.28-02.05.52:661][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.28-02.05.52:661][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.28-02.05.52:661][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,063ms to complete.
+[2025.03.28-02.05.52:661][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.151
+[2025.03.28-02.05.52:662][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.264
+[2025.03.28-02.05.52:760][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-02.05.52:764][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-02.05.52:767][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-02.05.52:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-02.05.52:778][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0054 seconds. Added 3822 classes and 928 folders.
+[2025.03.28-02.05.52:780][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2025.03.28-02.05.52:781][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.03.28-02.05.52:781][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:781][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.03.28-02.05.52:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2025.03.28-02.05.52:781][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2025.03.28-02.05.52:781][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2025.03.28-02.05.52:781][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:781][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2025.03.28-02.05.52:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2025.03.28-02.05.52:781][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.03.28-02.05.52:781][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2025.03.28-02.05.52:781][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:781][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2025.03.28-02.05.52:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2025.03.28-02.05.52:781][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2025.03.28-02.05.52:781][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.03.28-02.05.52:781][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:781][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.03.28-02.05.52:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2025.03.28-02.05.52:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.03.28-02.05.52:782][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2025.03.28-02.05.52:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2025.03.28-02.05.52:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2025.03.28-02.05.52:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.03.28-02.05.52:782][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2025.03.28-02.05.52:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2025.03.28-02.05.52:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2025.03.28-02.05.52:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.03.28-02.05.52:782][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2025.03.28-02.05.52:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2025.03.28-02.05.52:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2025.03.28-02.05.52:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.03.28-02.05.52:782][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2025.03.28-02.05.52:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2025.03.28-02.05.52:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2025.03.28-02.05.52:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.03.28-02.05.52:783][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.03.28-02.05.52:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.03.28-02.05.52:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2025.03.28-02.05.52:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2025.03.28-02.05.52:783][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2025.03.28-02.05.52:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2025.03.28-02.05.52:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2025.03.28-02.05.52:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.03.28-02.05.52:783][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2025.03.28-02.05.52:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2025.03.28-02.05.52:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2025.03.28-02.05.52:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2025.03.28-02.05.52:784][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.03.28-02.05.52:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.03.28-02.05.52:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2025.03.28-02.05.52:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2025.03.28-02.05.52:784][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.03.28-02.05.52:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.03.28-02.05.52:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2025.03.28-02.05.52:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2025.03.28-02.05.52:784][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.03.28-02.05.52:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.03.28-02.05.52:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2025.03.28-02.05.52:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2025.03.28-02.05.52:784][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2025.03.28-02.05.52:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2025.03.28-02.05.52:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2025.03.28-02.05.52:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2025.03.28-02.05.52:785][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.03.28-02.05.52:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.03.28-02.05.52:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2025.03.28-02.05.52:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2025.03.28-02.05.52:785][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2025.03.28-02.05.52:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2025.03.28-02.05.52:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2025.03.28-02.05.52:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2025.03.28-02.05.52:785][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.03.28-02.05.52:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.03.28-02.05.52:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2025.03.28-02.05.52:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2025.03.28-02.05.52:785][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.03.28-02.05.52:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.03.28-02.05.52:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2025.03.28-02.05.52:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.03.28-02.05.52:786][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.03.28-02.05.52:786][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:786][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.03.28-02.05.52:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2025.03.28-02.05.52:786][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2025.03.28-02.05.52:786][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.03.28-02.05.52:786][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:786][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.03.28-02.05.52:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2025.03.28-02.05.52:786][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2025.03.28-02.05.52:786][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.03.28-02.05.52:786][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:786][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.03.28-02.05.52:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2025.03.28-02.05.52:786][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2025.03.28-02.05.52:786][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2025.03.28-02.05.52:786][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:786][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2025.03.28-02.05.52:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2025.03.28-02.05.52:786][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.03.28-02.05.52:787][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.03.28-02.05.52:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.03.28-02.05.52:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2025.03.28-02.05.52:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2025.03.28-02.05.52:787][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.03.28-02.05.52:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.03.28-02.05.52:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2025.03.28-02.05.52:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.03.28-02.05.52:787][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2025.03.28-02.05.52:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.03.28-02.05.52:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2025.03.28-02.05.52:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.03.28-02.05.52:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2025.03.28-02.05.52:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2025.03.28-02.05.52:814][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.03.28-02.05.52:815][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2025.03.28-02.05.52:838][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.03.28-02.05.52:839][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.03.28-02.05.52:839][  0]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.03.28-02.05.52:888][  0]LogRenderer: Reallocating scene render targets to support 1208x616 Format 10 NumSamples 1 (Frame:1).
+[2025.03.28-02.05.52:983][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.03.28-02.05.52:983][  0]LogLoad: (Engine Initialization) Total time: 5.58 seconds
+[2025.03.28-02.05.52:983][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.03.28-02.05.53:009][  0]LogAssetRegistry: Asset discovery search completed in 3.5836 seconds
+[2025.03.28-02.05.53:012][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2025.03.28-02.05.53:013][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.03.28-02.05.53:126][  7]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.28-02.06.05:907][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:907][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:907][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:907][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:907][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:907][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:907][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:907][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:907][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:907][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:907][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:907][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:907][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:908][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:908][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:908][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:908][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:908][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:908][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:908][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:908][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:908][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:908][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:908][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:908][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.05:908][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy'
+[2025.03.28-02.06.06:587][460]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.28-02.06.06:612][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPersonFire_Montage1E3DEE99448F71725299618788441CE3.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset'
+[2025.03.28-02.06.06:640][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPerson_AnimBP51F9018148F0A4947C7459AB5B8F064E.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2025.03.28-02.06.06:649][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPerson_Fire79BA8D894B01B8CFB3E199B3E4216BED.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPerson/Animations/FirstPerson_Fire.uasset'
+[2025.03.28-02.06.06:659][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPerson_Idle723E6F1A4C667104A028A88F88E7CE6C.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPerson/Animations/FirstPerson_Idle.uasset'
+[2025.03.28-02.06.06:668][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPerson_JumpEnd61E5746C4F58737151D0298F927489F6.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset'
+[2025.03.28-02.06.06:678][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPerson_JumpLoopDB6E6DFC45697003CBFD7ABA35AE7565.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset'
+[2025.03.28-02.06.06:688][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPerson_JumpStart29CE94864A60798D80F80B8A1923EB0A.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset'
+[2025.03.28-02.06.06:698][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPerson_Run4AC286EA43C986C68C871EA995972025.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPerson/Animations/FirstPerson_Run.uasset'
+[2025.03.28-02.06.06:702][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPersonTemplateWeaponFire026B00DEC84D5F1AEFEB6A75AA65043F74.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2025.03.28-02.06.06:714][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Meshes/BaseMaterial" FILE="G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPerson/Meshes/BaseMaterial.uasset" SILENT=true
+[2025.03.28-02.06.06:717][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/BaseMaterial1F0B0A2C410D4100F3575CA330A2F7F6.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPerson/Meshes/BaseMaterial.uasset'
+[2025.03.28-02.06.06:726][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/CubeMaterialOverrideE5F566764EE7A950F5ECA38790DF478A.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset'
+[2025.03.28-02.06.06:728][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPersonCrosshair8FC43024432483E38F724A82661B46F6.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset'
+[2025.03.28-02.06.06:765][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPersonCharacterC63D5E714157EC4682C11F95BFA3D124.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2025.03.28-02.06.06:766][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPersonGameModeC5693B10422FCDBDC31AF0877E005984.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2025.03.28-02.06.06:771][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPersonHUD7C39E7F049198D9A31374291A2E8B9D2.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset'
+[2025.03.28-02.06.06:788][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPersonProjectileD63FFB2E43C4288905C353B2272C2B0C.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2025.03.28-02.06.06:794][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/M_Laser" FILE="G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPersonBP/Blueprints/M_Laser.uasset" SILENT=true
+[2025.03.28-02.06.06:798][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/M_Laser81C439DD46891C2153324DB38BB78D47.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPersonBP/Blueprints/M_Laser.uasset'
+[2025.03.28-02.06.06:806][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/M_Laser_InstF334118F45FCB5EC88F0DD9D8959E108.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPersonBP/Blueprints/M_Laser_Inst.uasset'
+[2025.03.28-02.06.06:813][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/P_LaserTrail7A271A6140D7732AD55242A34AB43083.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPersonBP/Blueprints/P_LaserTrail.uasset'
+[2025.03.28-02.06.06:823][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/TestMateria5AA7B5264D9DE9F544359A9220422ABB.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPersonBP/Blueprints/TestMateria.uasset'
+[2025.03.28-02.06.06:827][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.28-02.06.06:839][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPersonExampleMapDE7D03744057159CAA1CABBCB9B0741D.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2025.03.28-02.06.06:841][460]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.017
+[2025.03.28-02.06.07:180][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/FirstPersonExampleMap_BuiltData4817FB2943BFB883D9DA74B547F3F0B2.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2025.03.28-02.06.07:185][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/BP_LevelSwitcher3A790E2D49C7D3BAECB541B3BB293AD7.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/Self-MadeAssets/Blueprints/BP_LevelSwitcher.uasset'
+[2025.03.28-02.06.07:188][460]LogSavePackage: Moving 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Saved/BP_LevelSwitcher_P7266489A416BF527EDA3A8BB1A854AB6.tmp' to 'G:/GameJams/Macro Game Jam 2025/project-jamming-joy/Prismatica/Content/Self-MadeAssets/Blueprints/BP_LevelSwitcher_P.uasset'
+[2025.03.28-02.07.33:117][460]LogSlate: Window 'Submit Files' being destroyed
+[2025.03.28-02.07.35:652][460]LogSourceControl: commit successful: [main 806c1f1] // Core mechanics & character systems implementation
+[2025.03.28-02.07.36:407][460]SourceControl: [main 806c1f1] // Core mechanics & character systems implementation
+[2025.03.28-02.07.36:407][460]SourceControl:  31 files changed, 246 insertions(+)
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Config/DefaultEditor.ini
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Config/DefaultEngine.ini
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Config/DefaultGame.ini
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Config/DefaultInput.ini
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Animations/FirstPerson_Fire.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Animations/FirstPerson_Idle.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Animations/FirstPerson_Run.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Meshes/BaseMaterial.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPersonBP/Blueprints/M_Laser.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPersonBP/Blueprints/M_Laser_Inst.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPersonBP/Blueprints/P_LaserTrail.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPersonBP/Blueprints/TestMateria.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/Self-MadeAssets/Blueprints/BP_LevelSwitcher.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/Self-MadeAssets/Blueprints/BP_LevelSwitcher_P.uasset
+[2025.03.28-02.07.36:407][460]SourceControl:  create mode 100644 Prismatica/Content/Self-MadeAssets/Levels/TestLevel.umap
+[2025.03.28-02.07.36:410][460]SourceControl: Commited [main 806c1f1] // Core mechanics & character systems implementation.
+[2025.03.28-02.07.36:444][461]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating AnimSequence /Game/FirstPerson/Animations/FirstPerson_Run.FirstPerson_Run
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating AnimSequence /Game/FirstPerson/Animations/FirstPerson_JumpStart.FirstPerson_JumpStart
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating AnimSequence /Game/FirstPerson/Animations/FirstPerson_JumpLoop.FirstPerson_JumpLoop
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating AnimSequence /Game/FirstPerson/Animations/FirstPerson_JumpEnd.FirstPerson_JumpEnd
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating AnimSequence /Game/FirstPerson/Animations/FirstPerson_Idle.FirstPerson_Idle
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating AnimBlueprint /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating AnimSequence /Game/FirstPerson/Animations/FirstPerson_Fire.FirstPerson_Fire
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating AnimMontage /Game/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/Blueprints/M_Laser.M_Laser
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/FirstPersonBP/Blueprints/M_Laser_Inst.M_Laser_Inst
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating ParticleSystem /Game/FirstPersonBP/Blueprints/P_LaserTrail.P_LaserTrail
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating SoundWave /Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating Texture2D /Game/FirstPerson/Textures/FirstPersonCrosshair.FirstPersonCrosshair
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating Blueprint /Game/Self-MadeAssets/Blueprints/BP_LevelSwitcher.BP_LevelSwitcher
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating Blueprint /Game/Self-MadeAssets/Blueprints/BP_LevelSwitcher_P.BP_LevelSwitcher_P
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/Blueprints/TestMateria.TestMateria
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating Material /Game/FirstPerson/Meshes/BaseMaterial.BaseMaterial
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride
+[2025.03.28-02.07.36:444][461]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2025.03.28-02.07.52:187][614]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.03.28-02.08.03:964][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2025.03.28-02.08.04:953][137]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2025.03.28-02.08.05:301][177]Cmd: SELECT NONE
+[2025.03.28-02.08.05:636][217]Cmd: SELECT NONE
+[2025.03.28-02.08.06:991][378]LogSlate: Window 'Source Control Login' being destroyed
