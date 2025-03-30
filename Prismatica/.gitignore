@@ -1,0 +1,27 @@
+# Unreal Engine generated folders
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+Build/
+*.log
+*.tmp
+
+# Ignore project user settings
+.vscode/
+*.suo
+*.user
+*.userprefs
+
+# Ignore Engine/auto content
+Content/Engine/
+Content/Saved/
+Content/StarterContent/
+Content/EngineResources/
+
+# Keep only core config files
+!Config/Default*.ini
+
+# --- Light bake / build data ---
+*BuiltData.uasset
+*.umap_BuiltData.*
