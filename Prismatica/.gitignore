@@ -21,3 +21,7 @@ Content/EngineResources/
 
 # Keep only core config files
 !Config/Default*.ini
+
+# --- Light bake / build data ---
+*-BuiltData.uasset
+*.umap_BuiltData.*
