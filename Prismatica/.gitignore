@@ -23,5 +23,5 @@ Content/EngineResources/
 !Config/Default*.ini
 
 # --- Light bake / build data ---
-*-BuiltData.uasset
+*BuiltData.uasset
 *.umap_BuiltData.*
